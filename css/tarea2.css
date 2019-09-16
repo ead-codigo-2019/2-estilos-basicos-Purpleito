@@ -1,0 +1,47 @@
+/*background*/
+body,
+.cuerpo {
+    max-width:1000px;
+    margin-left:80px;
+}
+/*Parrafos*/
+p,
+.parrafos {
+    font-family: Tahoma;
+    color:#5f5f5f;
+}
+/*Primer encabezado*/
+h1,
+.primer-encabezado {
+    font-family: Tahoma;
+    color:#800000;
+    font-size: 3.5rem;        /*rem 16px*/
+}
+/*Segundo encabezado*/
+h2,
+.segundo-encabezado {
+    font-family: Tahoma;
+    color:#800000;
+    font-size: 2.5rem;
+}
+
+/*Tercer encabezado*/
+h3,
+.tercer-encabezado {
+    font-family: Tahoma;
+    font-size: 2.5rem;
+}
+
+/*Cuarto encabezado*/
+h4,
+.cuarto-encabezado {
+    font-family: Tahoma;
+    font-size: 1.7rem;
+}
+img,
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
